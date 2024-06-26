@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "shyam",
+    "password": "shyam",
+    "database": "node_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "shyam",
+    "password": "shyam",
+    "database": "node_database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "shyam",
+    "password": "shyam",
+    "database": "node_database_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
